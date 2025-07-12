@@ -1,4 +1,4 @@
-<h1><centre>#Hi 👋,I'm Ridhima Goel</centre></h1>
+<h1><centre>#Hi 👋,I'm Ridhima Goel</h1></centre>
 
 #About me : I'm Currently working on Full Stack Development, with a strong command over frontend technologies including HTML, CSS, JavaScript.<br>
 
