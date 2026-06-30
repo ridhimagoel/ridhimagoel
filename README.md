@@ -3,9 +3,6 @@
 
 - 🔭 I'm currently building **AI Interview Bot**, an end-to-end platform automating the hiring pipeline with AI-driven resume screening and real-time interview evaluation
 - 🌱 I'm currently exploring **Generative AI, GANs, and Grad-CAM** for applied ML systems
-- 💼 Finance Head & Creativity Head at **Student Alumni Interaction Cell (SAIC), TIET** — co-launched CONNECT, the official TIET alumni newsletter
-- 🏐 State-Level Volleyball Player, representing School Sikheya Vibhag, Punjab
-- 💬 Ask me about React, Node.js, Python, Firebase, or full-stack system design
 - 📫 Reach me at **ridhimagoel126@gmail.com**
 
 ## 🚀 Projects
